@@ -1,2 +1,3 @@
-# leetcode
- Leetcode practice
+# Leetcode
+
+Practice for Leetcode
